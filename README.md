@@ -1,2 +1,2 @@
 # ICM_L
-Programmes éxécutés sous Linus
+Programmes éxécutés sous Linux
