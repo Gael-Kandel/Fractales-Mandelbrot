@@ -1,5 +1,12 @@
 # ICM_L
-Programmes éxécutés sous Linux
+Programmes en C dans le cadre de mes cours à l'école des Mines de Saint-Etienne
+
+
+Mandelbrot : 
+Calcul et création d'image des ensembles de Mandelbrot.
+
+C : 
+Fonctions diverses pour la prise en main du language
 
 Pour compiler | To compile : 
 Flags :
