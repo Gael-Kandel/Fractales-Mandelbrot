@@ -1,5 +1,5 @@
-# ICM_L
-Programmes en C dans le cadre de mes cours à l'école des Mines de Saint-Etienne
+# Programmes en C dans le cadre de mes cours à l'école des Mines de Saint-Etienne
+
 
 
 Mandelbrot : 
